@@ -2,10 +2,3 @@ print("Hello world!")
 
 print("Add some new login")
 
-print("More")
-
-print("New code from Colegues!")
-
-print("Some data from Author")
-
-print("Some new")
